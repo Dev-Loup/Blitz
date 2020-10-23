@@ -1,0 +1,8 @@
+# node modules
+api/node_modules/
+
+# apple file sys
+.DS_Store
+
+#node packages
+api/package-lock.json
